@@ -1,0 +1,18 @@
+#contenedor {
+	float: left;
+	width: 600px;
+	height: 600px;
+	position: relative;
+	display: inline-block;
+}
+
+#selector {
+	float: left;
+	display: none;
+	position: absolute;
+	border: 1px solid #FFFFFF;
+}
+
+.restore {
+	clear: both;
+}

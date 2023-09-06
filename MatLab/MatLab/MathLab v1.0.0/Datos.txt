@@ -1,0 +1,1 @@
+Recuerda poner string bas y leer con getline despues de la entrada de datos

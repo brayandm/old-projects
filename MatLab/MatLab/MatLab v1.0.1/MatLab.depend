@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1444295032 source:e:\matlab\matlab v1.0.1\function.cpp
+	<bits/stdc++.h>
+
+1444299112 source:e:\matlab\matlab v1.0.1\main.cpp
+	<bits/stdc++.h>
+	"function.h"
+
+1444295032 e:\matlab\matlab v1.0.1\function.cpp
+	<bits/stdc++.h>
+
+1444489002 e:\matlab\matlab v1.0.1\function.h
+	<bits/stdc++.h>
+

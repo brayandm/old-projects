@@ -1,0 +1,33 @@
+Cree un archivo IA.in en el mismo directorio que el ejecutable y escriba en él los argumentos siguiendo los siguientes parámetros:
+(Esto es opcional ya que el programa ya viene con una configuracion predeterminada con la mejor inteligencia artificial)
+
+///Desactivar Mejor Inteligencia Artificial: N = 0;
+
+///Desactivar IA (jugar RANDOM): N = 0;
+
+///Desactivar hacer Jugadas Ganadoras: N = 0;
+
+///Probabilidad de 1 en 'N' de hacer Jugadas Ganadoras;
+
+///Desactivar hacer Jugadas Perdedoras: N = 0;
+
+///Probabilidad de 1 en 'N' de hacer Jugadas Perdedoras;
+
+///Desactivar Ganar facil: N = 0;
+
+///Desactivar Evitar Perder facil: N = 0;
+
+
+Ej: 0 1 1 10 0 0 1 1
+
+En este ejemplo se desactiva la mejor IA, sin embargo todo se realiza sin movimientos randomizados o aleatorios, además se 
+pueden hacer jugadas ganadoras con probabilidad de 1 en 10 ('0,1'), tambien se desactivan hacer jugadas perdedoras por lo
+que la probabilidad no importa, se puede ganar si están las condiciones necesarias para hacerlo y nunca la computadora
+perdera por un error fácil.
+
+¡¡¡Diviertete configurando la IA de este programa!!!
+
+
+
+
+

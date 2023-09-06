@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang = "es">
+	<head>
+		<meta charset = "utf-8">
+		<title> Mandelbrot Fractals </title>
+		
+		<link rel = "stylesheet" href = "styles.css">
+		<script src = "general.js"></script>
+		<script src = "formulas.js"></script>
+	</head>
+	
+	<body>
+		<section id = "contenedor">
+			<canvas id = "canvas"></canvas>
+		</section>
+		
+		<div id = "controles">
+			<p><label> Iterations <input type = "number" id = "iterations"></label></p>
+			<p><label> Saturation <input type = "text" id = "saturation"></label></p>
+			<p><label> Magnification <input type = "text" id = "magnification"></label></p>
+			<p><label> Move X <input type = "text" id = "moveX"></label></p>
+			<p><label> Move Y <input type = "text" id = "moveY"></label></p>
+			<p><button type = "button" id = "generar"> Generar </button></p>
+		</div>
+		
+		<div class = "restore"></div>
+	</body>
+</html>
